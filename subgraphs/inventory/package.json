@@ -10,7 +10,7 @@
     "@apollo/federation": "0.33.3",
     "apollo-server": "3.4.0",
     "supergraph-demo-opentelemetry": "0.0.3",
-    "graphql": "15.6.0"
+    "graphql": "15.6.1"
   },
   "keywords": [],
   "author": "",
